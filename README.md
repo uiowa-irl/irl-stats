@@ -1,4 +1,4 @@
-[University of Iowa - Internet Research Laboratory] (https://internet.lab.uiowa.edu/)
+[University of Iowa - Internet Research Laboratory](https://internet.lab.uiowa.edu/)
 
 `git clone https://github.com/uiowa-irl/uiowa-irl-stats.git`
 
