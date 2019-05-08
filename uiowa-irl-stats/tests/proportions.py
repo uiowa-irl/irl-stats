@@ -53,7 +53,7 @@ def chi2Proportions(count,nobs):
         return chi2_contingency(obs, correction=False) 
 
     except Exception as e:
-        print("Exception: {}, returning intmax array".format(e)) 
+        print("Exception: {}, returning int max array".format(e)) 
         int_max  = sys.maxsize
         return [int_max, int_max,int_max,int_max]
     
